@@ -1,5 +1,5 @@
-document.addEventListener("DOMContentLoaded", function(event) {
 
+//Array of Cards
 var cards = [
 	{
 	rank: "queen", 
@@ -15,6 +15,46 @@ var cards = [
 	rank: "king", 
 	suit: "hearts",
 	cardImage: "img/king-of-hearts.png", 
+	},
+	{
+	rank: "queen", 
+	suit: "hearts",
+	cardImage: "img/queen-of-hearts.png", 
+	},
+	{
+	rank: "queen", 
+	suit: "diamonds",
+	cardImage: "img/queen-of-diamonds.png", 
+	},
+	{
+	rank: "king", 
+	suit: "hearts",
+	cardImage: "img/king-of-hearts.png", 
+	},
+	{
+	rank: "queen", 
+	suit: "hearts",
+	cardImage: "img/queen-of-hearts.png", 
+	},
+	{
+	rank: "queen", 
+	suit: "diamonds",
+	cardImage: "img/queen-of-diamonds.png", 
+	},
+	{
+	rank: "king", 
+	suit: "hearts",
+	cardImage: "img/king-of-hearts.png", 
+	},
+	{
+	rank: "king", 
+	suit: "hearts",
+	cardImage: "img/king-of-hearts.png", 
+	},
+	{
+	rank: "queen", 
+	suit: "diamonds",
+	cardImage: "img/queen-of-diamonds.png", 
 	},
 	{
 	rank: "king", 
@@ -43,6 +83,7 @@ var flipCard = function() {
 		checkForMatch();
 		}
 };
+
 var createBoard = function(){
 	for(var i = 0; i < cards.length; i++) {
 		var cardElement = document.createElement('img');
@@ -54,9 +95,13 @@ var createBoard = function(){
 };
 //runs above code to play game
 createBoard();
-});
 
-//Allows you to link button to restart game
-function reloadGame() {
-	window.location.reset();
-};
+//Allows user to restart game 
+function reset(){
+	document.getElementById('game-board').innerHTML = ""; 
+	cardsInPlay = []; 
+	createBoard(); 
+}
+
+
+

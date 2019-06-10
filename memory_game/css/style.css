@@ -81,6 +81,16 @@ footer p {
 	font-family: Raleway;
 }
 
+#resetButton{
+	margin: 20px;
+	width: 120px; 
+	height: 40px; 
+	font-family: Raleway;
+	background-color: #F15B31; 
+	color: #FFFFFF; 
+	font-size: 25px;
+}
+
 .message {
 	float: right;
 }
