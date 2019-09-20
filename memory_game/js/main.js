@@ -63,7 +63,7 @@ var cards = [
 ]
 
 var cardsInPlay = []
-let delay = 800
+let delay = 500
 
 var checkForMatch = function() {
   // cardElement.setAttribute('src', cards[cardId].cardImage);
