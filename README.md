@@ -1,7 +1,7 @@
 ![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
 
 # Software Engineering Immersive: Pre-work
-###### Play Game here [Gh-Pages](https://iamshola.github.io/wdi-fundamentals-memorygame/)
+###### Play Game [Here!](https://iamshola.github.io/wdi-fundamentals-memorygame/)
 
 #### Overview
 This game was created using canvas as an opportunity to understand the basic principles and practice javascript. The repo can be accessed on [Github](https://github.com/Iamshola/wdi-fundamentals-memorygame) and the deployed site can be viewed on [Gh-Pages](https://iamshola.github.io/wdi-fundamentals-memorygame/).
