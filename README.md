@@ -25,7 +25,7 @@ This is a game I made as part of the General Assembly's Software Engineering Imm
 This was a challenge trying to use all the fundamentals I had learnt from JavaScript to make my first game! I would have to loved to improve this game by adding a score board. In the future, I would display all the correct cards after they had been selected and stop them from flipping back!
 
 
-### Course Curriculum
+## Course Curriculum
   Details of my training and links to more projects whilst at General Assembly -  12 Week Immersive.
 
 > **Week 1-3 | Module One - Fundamentals**
