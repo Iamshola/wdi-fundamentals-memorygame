@@ -22,4 +22,4 @@ This is a game I made as part of the General Assembly's Software Engineering Imm
 4. GitHub
 
 ### Review
-This was a challenge trying to use all the fundamentals I had learnt from JavaScript to make my first game! I would have to loved to improve this game by adding a score board. In the future, I would display all the correct cards after they had been selected!
+This was a challenge trying to use all the fundamentals I had learnt from JavaScript to make my first game! I would have to loved to improve this game by adding a score board. In the future, I would display all the correct cards after they had been selected and stop them from flipping back!
