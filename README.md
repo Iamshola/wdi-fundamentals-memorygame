@@ -4,7 +4,7 @@
 ###### Play Game [Here!](https://iamshola.github.io/wdi-fundamentals-memorygame/)
 
 #### Overview
-This game was created using canvas as an opportunity to understand the basic principles and practice javascript. The repo can be accessed on [Github](https://github.com/Iamshola/wdi-fundamentals-memorygame) and the deployed site can be viewed on [Gh-Pages](https://iamshola.github.io/wdi-fundamentals-memorygame/).
+This game was created  as an opportunity to understand the basic principles and practice javascript. The repo can be accessed on [Github](https://github.com/Iamshola/wdi-fundamentals-memorygame) and the deployed site can be viewed on [Gh-Pages](https://iamshola.github.io/wdi-fundamentals-memorygame/).
 
 This is a game I made as part of the General Assembly's Software Engineering Immersive on boarding process.
 
@@ -21,7 +21,13 @@ This is a game I made as part of the General Assembly's Software Engineering Imm
 3. Javascript
 4. GitHub
 
+### Timeframe:
+1/2
+
+
 ### Review
+
+
 This was a challenge trying to use all the fundamentals I had learnt from JavaScript to make my first game! I would have to loved to improve this game by adding a score board. In the future, I would display all the correct cards after they had been selected and stop them from flipping back!
 
 
